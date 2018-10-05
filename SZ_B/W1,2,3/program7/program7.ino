@@ -95,5 +95,5 @@ void loop() {
 
   }
   count++;
-  delay(500);
+  delay(50);
 }
